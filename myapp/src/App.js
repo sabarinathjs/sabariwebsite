@@ -1,9 +1,9 @@
 
 import "./App.css"; 
-import Inline from "./Component/Day2/Inline";
+import Form from "./Component/Day2/Form";
 function App() {
   return ( 
-    <Inline/>
+    <Form/>
   );
 }
 

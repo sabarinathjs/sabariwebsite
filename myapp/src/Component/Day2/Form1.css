@@ -1,0 +1,20 @@
+.s{
+   background-size:cover;
+   height :700px;
+   background-image: url("https://tse1.mm.bing.net/th?id=OIP.Akrwrq840ma0rGbbWDrGPQHaFO&pid=Api&P=0&h=180");
+}
+.box {
+    width: 200px;
+    height: 250px;
+    background-color: #898888e4;
+    color:#070606;
+    border: 6px solid #161515;
+    padding: 30px;
+    margin-top: 40px;
+    margin-left: 630px;
+}
+.but-ton {
+    margin-top: 20px;
+    margin-left: 60px;
+    
+  }

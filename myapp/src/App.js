@@ -1,17 +1,9 @@
-import React from "react";
-import Header from "./component/header";
-import Main from "./component/main";
-import Footer from "./component/footer";
 
 import "./App.css"; 
-
+import Inline from "./Component/Day2/Inline";
 function App() {
-  return (
-    <div className="app">
-      <Header />
-      <Main />
-      <Footer />
-    </div>
+  return ( 
+    <Inline/>
   );
 }
 
